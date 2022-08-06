@@ -6,4 +6,4 @@
 - **CHANNELNICK**: _Your Telegram's channel nickname (Without @! Example: 'YukisLife')!_
 
 
-## (C) [Yuki's project](http://telegram.me/YukisProject/) 2018
+## (C) [Yuki's project](http://telegram.me/s/YukisProjects/) 2018
