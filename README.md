@@ -1,4 +1,4 @@
-# Bot by [zGhostYuki](http://telegram.me/zGhostYuki/)
+# Bot by [zGhostYuki](http://telegram.me/zGhostYuki/) *(currently outdated, will be updated soon™)*
 
 **REPLACE:**
 - **TOKEN**: _Your Telegram bot's token._
@@ -6,4 +6,4 @@
 - **CHANNELNICK**: _Your Telegram's channel nickname (Without @! Example: 'YukisLife')!_
 
 
-## (C) [Yuki's project](http://telegram.me/s/YukisProjects/) 2018
+## (C) [Yuki's Projects](http://telegram.me/s/YukisProject/) 2018
